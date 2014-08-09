@@ -1,0 +1,14 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+.wrap {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home {
+  text-align: center;
+}
